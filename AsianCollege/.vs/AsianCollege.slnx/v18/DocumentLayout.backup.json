@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\erbibek\\Asian-BSCCSIT\\Codes\\Project\\AsianCollege\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48A1BBBA-568A-24E2-DA53-30B2A2EB5341}|AsianCollege\\AsianCollege.csproj|c:\\erbibek\\asian-bsccsit\\codes\\project\\asiancollege\\asiancollege\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A1BBBA-568A-24E2-DA53-30B2A2EB5341}|AsianCollege\\AsianCollege.csproj|solutionrelative:asiancollege\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A1BBBA-568A-24E2-DA53-30B2A2EB5341}|AsianCollege\\AsianCollege.csproj|c:\\erbibek\\asian-bsccsit\\codes\\project\\asiancollege\\asiancollege\\class\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A1BBBA-568A-24E2-DA53-30B2A2EB5341}|AsianCollege\\AsianCollege.csproj|solutionrelative:asiancollege\\class\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A1BBBA-568A-24E2-DA53-30B2A2EB5341}|AsianCollege\\AsianCollege.csproj|c:\\erbibek\\asian-bsccsit\\codes\\project\\asiancollege\\asiancollege\\class\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A1BBBA-568A-24E2-DA53-30B2A2EB5341}|AsianCollege\\AsianCollege.csproj|solutionrelative:asiancollege\\class\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileName.cs",
+              "DocumentMoniker": "C:\\erbibek\\Asian-BSCCSIT\\Codes\\Project\\AsianCollege\\AsianCollege\\Class\\FileName.cs",
+              "RelativeDocumentMoniker": "AsianCollege\\Class\\FileName.cs",
+              "ToolTip": "C:\\erbibek\\Asian-BSCCSIT\\Codes\\Project\\AsianCollege\\AsianCollege\\Class\\FileName.cs",
+              "RelativeToolTip": "AsianCollege\\Class\\FileName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T04:43:20.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inheritance.cs",
+              "DocumentMoniker": "C:\\erbibek\\Asian-BSCCSIT\\Codes\\Project\\AsianCollege\\AsianCollege\\Class\\Inheritance.cs",
+              "RelativeDocumentMoniker": "AsianCollege\\Class\\Inheritance.cs",
+              "ToolTip": "C:\\erbibek\\Asian-BSCCSIT\\Codes\\Project\\AsianCollege\\AsianCollege\\Class\\Inheritance.cs",
+              "RelativeToolTip": "AsianCollege\\Class\\Inheritance.cs",
+              "ViewState": "AgIAAAwAAACANDMzMzMJwBgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T04:19:20.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\erbibek\\Asian-BSCCSIT\\Codes\\Project\\AsianCollege\\AsianCollege\\Program.cs",
+              "RelativeDocumentMoniker": "AsianCollege\\Program.cs",
+              "ToolTip": "C:\\erbibek\\Asian-BSCCSIT\\Codes\\Project\\AsianCollege\\AsianCollege\\Program.cs",
+              "RelativeToolTip": "AsianCollege\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T03:22:35.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\erbibek\Asian-BSCCSIT\Codes\Project\AsianCollege\AsianCollege\bin\Debug\net10.0\AsianCollege.exe
+C:\erbibek\Asian-BSCCSIT\Codes\Project\AsianCollege\AsianCollege\bin\Debug\net10.0\AsianCollege.deps.json
+C:\erbibek\Asian-BSCCSIT\Codes\Project\AsianCollege\AsianCollege\bin\Debug\net10.0\AsianCollege.runtimeconfig.json
+C:\erbibek\Asian-BSCCSIT\Codes\Project\AsianCollege\AsianCollege\bin\Debug\net10.0\AsianCollege.dll
+C:\erbibek\Asian-BSCCSIT\Codes\Project\AsianCollege\AsianCollege\bin\Debug\net10.0\AsianCollege.pdb
+C:\erbibek\Asian-BSCCSIT\Codes\Project\AsianCollege\AsianCollege\obj\Debug\net10.0\AsianCollege.GeneratedMSBuildEditorConfig.editorconfig
+C:\erbibek\Asian-BSCCSIT\Codes\Project\AsianCollege\AsianCollege\obj\Debug\net10.0\AsianCollege.AssemblyInfoInputs.cache
+C:\erbibek\Asian-BSCCSIT\Codes\Project\AsianCollege\AsianCollege\obj\Debug\net10.0\AsianCollege.AssemblyInfo.cs
+C:\erbibek\Asian-BSCCSIT\Codes\Project\AsianCollege\AsianCollege\obj\Debug\net10.0\AsianCollege.csproj.CoreCompileInputs.cache
+C:\erbibek\Asian-BSCCSIT\Codes\Project\AsianCollege\AsianCollege\obj\Debug\net10.0\AsianCollege.dll
+C:\erbibek\Asian-BSCCSIT\Codes\Project\AsianCollege\AsianCollege\obj\Debug\net10.0\refint\AsianCollege.dll
+C:\erbibek\Asian-BSCCSIT\Codes\Project\AsianCollege\AsianCollege\obj\Debug\net10.0\AsianCollege.pdb
+C:\erbibek\Asian-BSCCSIT\Codes\Project\AsianCollege\AsianCollege\obj\Debug\net10.0\AsianCollege.genruntimeconfig.cache
+C:\erbibek\Asian-BSCCSIT\Codes\Project\AsianCollege\AsianCollege\obj\Debug\net10.0\ref\AsianCollege.dll
