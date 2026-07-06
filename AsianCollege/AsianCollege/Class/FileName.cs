@@ -6,7 +6,7 @@
     public FileName()
     {
         this.a = 10;
-        Console.WriteLine("This is the parent class.");
+        Console.WriteLine("This is constructor.");
     }
 }
 
