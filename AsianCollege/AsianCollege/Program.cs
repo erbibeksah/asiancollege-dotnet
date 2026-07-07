@@ -28,7 +28,24 @@ Console.WriteLine("Hello, World!");
 
 
 // Encapsulation example
-Account acc = new Account();
-acc.SetBalance(2000);
-Console.WriteLine("Current Balance: {0}", acc.GetBalance());
-Console.ReadKey();
+// Account acc = new Account();
+// acc.SetBalance(2000);
+// Console.WriteLine("Current Balance: {0}", acc.GetBalance());
+// Console.ReadKey();
+
+// Abstraction Example
+// NabilBank nrb = new NabilBank();
+// nrb.GetUserDetails();
+
+
+// Struct & Enums
+GetStudentDetails details = new GetStudentDetails();
+details.DisplayStudentDetails();
+
+
+// Abstraction Example
+NabilBank nabil = new NabilBank();
+nabil.ChargeServiceFee();
+
+GlobalIme ime = new GlobalIme();
+ime.ChargeServiceFee();
