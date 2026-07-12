@@ -1,4 +1,6 @@
 ﻿using AsianCollege.Class;
+using AsianCollege.Others;
+using static AsianCollege.Others.Delegates;
 
 Console.WriteLine("Hello, World!");
 // Child child = new Child("name");
@@ -39,13 +41,41 @@ Console.WriteLine("Hello, World!");
 
 
 // Struct & Enums
-GetStudentDetails details = new GetStudentDetails();
-details.DisplayStudentDetails();
+// GetStudentDetails details = new GetStudentDetails();
+// details.DisplayStudentDetails();
 
 
 // Abstraction Example
-NabilBank nabil = new NabilBank();
-nabil.ChargeServiceFee();
+// NabilBank nabil = new NabilBank();
+// nabil.ChargeServiceFee();
 
-GlobalIme ime = new GlobalIme();
-ime.ChargeServiceFee();
+// GlobalIme ime = new GlobalIme();
+// ime.ChargeServiceFee();
+
+
+// delegate calling way
+// MyDelegate myDelegate = Welcome;
+// myDelegate();
+
+// event calling way
+
+// class object intialize
+Events env = new Events();
+ClosedEvents closedEvents = new ClosedEvents();
+Security sc = new Security();
+
+// event subscription
+env.BellRang += closedEvents.School;
+env.BellRang += sc.OpenGate;
+env.BellRang -= closedEvents.School;
+
+// main method calling
+env.RingBell();
+
+// calling partial class
+BankingCore bk = new BankingCore();
+bk.GetName();
+bk.GetMobileNumber();
+
+
+
