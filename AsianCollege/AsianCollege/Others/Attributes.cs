@@ -7,8 +7,13 @@ namespace AsianCollege.Others
     public class Attributes
     {
         // Write in file
-        [Obsolete("This method is obsolete. Use WriteFile instead.")]
+        [Obsolete("This method is obsolete. Use WriteFile1() instead.")]
         public void WriteFile()
+        {
+            File.WriteAllText("Student.txt", "Welcome to C#");
+
+        }
+        public void WriteFile1()
         {
             File.WriteAllText("Student.txt", "Welcome to C#");
 
