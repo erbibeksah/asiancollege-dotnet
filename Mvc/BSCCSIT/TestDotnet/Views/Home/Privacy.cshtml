@@ -1,0 +1,28 @@
+﻿@removeTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model TestDotnet.Models.Form
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+@* Razor Syntax *@
+@{
+    var a = "test";
+    var b = "test 1";
+    var c = a + b;
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Use this page to detail your site's privacy policy.</p>
+<a asp-controller="Home" asp-action="Index">Link</a>
+@* @c *@
+
+@* normal html form *@
+@using (var form = Html.BeginForm())
+{
+    <div>
+        @Html.Label("Name")
+        @Html.TextBox("Name")
+        @Html.ValidationMessageFor(m => m.Name)
+    </div>
+    <input type="submit" value="Submit" />
+    
+}
