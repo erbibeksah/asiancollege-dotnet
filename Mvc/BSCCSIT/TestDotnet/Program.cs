@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+using TestDotnet.DB;
 using TestDotnet.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -5,6 +7,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddSingleton<ICustomLogger, CustomLogger>();
+builder.Services.AddDbContext<ApplicationContext>(option => {
+    option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+});
 
 var app = builder.Build();
 
