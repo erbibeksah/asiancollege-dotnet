@@ -1,0 +1,48 @@
+﻿@model TestDotnet.Models.Students;
+@{
+    ViewData["Title"] = "Student Insert Page";
+}
+<h1>Student Insert Page</h1>
+<form asp-action="Create" method="post">
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Cgpa" class="form-label"></label>
+        <input asp-for="Cgpa" class="form-control" />
+        <span asp-validation-for="Cgpa" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Semester" class="form-label"></label>
+        <input asp-for="Semester" class="form-control" />
+        <span asp-validation-for="Semester" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="package" class="form-label"></label>
+        <input asp-for="package" class="form-control" />
+        <span asp-validation-for="package" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">
+        Submit
+    </button>
+
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
